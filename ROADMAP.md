@@ -15,15 +15,10 @@
 - [ ] Add wiring diagram for final installation
 - [ ] Add error counter for failed Modbus reads
 - [ ] Add retry logic
-- [ ] Add MQTT publishing example
-- [ ] Add Node-RED integration example
-- [ ] Add ThingsBoard / Datacake / InfluxDB integration examples
-- [ ] Add support notes for more Modbus devices
 
 ## Future Shelly Modbus add-on
 
 - [ ] Test the Shelly The Pill Modbus add-on
-- [ ] Add photos if allowed
-- [ ] Add wiring documentation if allowed
+- [ ] Add new wiring image
 - [ ] Add migration guide from TTL-RS485 module to the add-on
 - [ ] Add comparison table
